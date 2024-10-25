@@ -281,9 +281,9 @@ public class MainActivity2 extends AppCompatActivity {
 ```
 
 ## OUTPUT:
-![Screenshot_20241025_181524](https://github.com/user-attachments/assets/335370c8-9b68-4b40-ba50-0335ebfdd063)
-![Screenshot 2024-10-25 181629](https://github.com/user-attachments/assets/5de0d157-abea-48b5-abfa-eff7f2bf9f98)
-![Screenshot_20241025_181614](https://github.com/user-attachments/assets/f76b29ff-0903-4e6d-a63d-db3e0b94fc5d)
+![Screenshot_20241025_181524](https://github.com/user-attachments/assets/335370c8-9b68-4b40-ba50-0335ebfdd063){width="300"}
+![Screenshot 2024-10-25 181629](https://github.com/user-attachments/assets/5de0d157-abea-48b5-abfa-eff7f2bf9f98){width="300"}
+![Screenshot_20241025_181614](https://github.com/user-attachments/assets/f76b29ff-0903-4e6d-a63d-db3e0b94fc5d){width="300"}
 
 
 ## RESULT:
